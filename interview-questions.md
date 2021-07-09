@@ -7,7 +7,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is a function? Why would you use one?
 
-  Your answer:
+  Your answer: A function is a tiny machine within your code. It takes inputs and gives an output using logic. A function can be run and rerun as many times you want in your code. Functions are used when you want to do a task over and over again without recoding everything in the function over and over.
 
   Researched answer:
 
@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. In regards to functions, what is the difference between an argument and a parameter?
 
-  Your answer:
+  Your answer: In a function, a parameter is a placeholder put inside the parentheses at the beginning of a function. An argument is the data that you put inside the parentheses when you call the function elsewhere in the code. The argument corresponds to the parameter in that whatever data you input as the argument replaces the placeholder of the parameter in the logic of the function.
 
   Researched answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the location of the data within an array. The difference between an index and a value is that, while an index is the location of the data within an array, a value is what that data actually is. Each piece of data in an array is called a value. The location of that value within the array is the index. The index of the values are zero indexed, meaning that the index of the first value is zero.
 
   Researched answer:
 
@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is a built-in method?
 
-  Your answer:
+  Your answer: built-in methods are 
 
   Researched answer:
 
