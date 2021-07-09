@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is a built-in method?
 
-  Your answer: built-in methods are 
+  Your answer: Built-in methods are built in functions of Javascript that are used often by developers. They have been put into Javascript so developers don't need to build them themselves every time they are working on new code. Like regular functions, sometimes built-in methods take arguments that are run through the function of the built-in method in the background.
 
   Researched answer:
 
@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Pair programming is when two developers help each other when they are working together on the same code. Each of the two developers are assigned a certain role while coding. One developer is the Driver, while the other developer is the Navigator. The Driver is the one who writes the code while working on the computer. The Navigator is the one who verbally communicates what the Driver should be coding. The Navigator helps by verbally explaining what the code should do and how it should work. The Driver takes the instructions from the Navigator and implements them into the code. The two developers will switch roles frequently so they each can get a better grasp of the code and learn from one another.
 
   Researched answer:
 
@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. What is something we did in class this week you found helpful?  
 
-  Your answer:
+  Your answer: I think pair programming was the most helpful thing this week. Not only did I get help understanding certain concepts from coders who knew more than I did, but I was able to retain information more when I was the one who had to reiterate the concepts to someone else. I found it immensely helpful and valuable. I look forward to more pair programming in the future.
 
 
 
@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Iteration:
+1. Iteration: An iteration is a piece of code that will run over and over until a specific condition happens. An example of an iteration in Javascript is a loop. In an iteration of a loop, the code will run over and over as long as a certain condition is true. Once the condition is false, the iteration will end.
 
-2. Higher Order Functions:
+2. Higher Order Functions: A higher order funciton is a function where another function is passed into the function as an argument or a function where another function is the output.
 
-3. Jest:
+3. Jest: Jest is a Javascript testing framework that is maintained by Facebook. It is designed to ensure correctness of any Javascript code. It is essentially a Javascript test runner, or a library of Javascript for creating, running and structuring tests in Javascript.
 
-4. Classes:
+4. Classes: Classes are a type of function that act as the instructions for creating objects. They encapsulate data with code to work on that data, and functions that manipulate data.
 
-5. React:
+5. React: React is a free and open-source front-end library for javascript that is used for building user interfaces or user interface components for webpages, mobile webpages, or other mobile apps.

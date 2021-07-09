@@ -45,7 +45,7 @@ var weekendDays = ["saturday", "sunday"]
 // --------------------5) What will this log?
 
 var dataTypes = ["number", "string", "Boolean"]
-console.log(typeof dataTypes.length)
+// console.log(typeof dataTypes.length)
 
 // a) Your answer: I think the console will log the data type of the lengths of the strings in the Array "dataTypes". This should just output each data type as a number, because the .length built-in-method will change the type of the strings in the array to numbers.
 // b) Verify and explain: My initial answer was incorrect. I was wrong that the console would log the data type of the strings within the array as numbers. What is actually happening is the built-in-method of .length is determining the length of the Array "dataTypes", which is 3. There are 3 strings in the Array, so the length of the Array is 3. Then the operator "typeof" is showing that the length of the Array is a "number". If the built-in-method .length was gone, the data type of the Array "dataTypes" would be an "object".
